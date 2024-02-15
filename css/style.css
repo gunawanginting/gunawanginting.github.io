@@ -85,7 +85,7 @@ ul {
 }
 
 #select-menu select{
-background-color: var(--main-color);
+background-color: var(--main-color); /*ganti warna*/
 border: none;
 color: var(--text-color);
 }
