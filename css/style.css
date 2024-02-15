@@ -84,6 +84,16 @@ ul {
     display: none;
 }
 
+#select-menu select{
+background-color: var(--main-color);
+border: none;
+color: var(--text-color);
+}
+
+#select-menu option{
+    color : var(--text-color)
+}
+
 .h-btn{
     display: inline-block;
     padding: 11px 26px;
